@@ -1,0 +1,18 @@
+{
+    "topics_public": {
+        "4":"agente4",
+        "6":"agente6"
+    },
+    "topic_suscriptor":"agente5",
+    "ID_agente":"5",
+    "broker": "localhost",
+    "port": 1883,
+    "parametros":{
+        "a":107.44,
+        "b":1150.5,
+        "c":0.5,
+        "d":0
+    },
+    "admin":"admin",
+    "topic_admin":"admin"
+}
